@@ -24,14 +24,14 @@ Bu repozito, gri tonlamalı bir görüntüyü iki tonlu bir görüntüye dönü�
    Repoyu yerel bilgisayarınıza klonlayın:
 
    ```bash
-   git clone https://github.com/username/repo_name.git
-   cd repo_name
+   [git clone https://github.com/zenithura/image-dithering.git](https://github.com/zenithura/image-dithering.git)
+   cd image-dithering
    ```
 
 ## Kullanım Talimatları
 
 1. **Görüntüyü Hazırlayın**  
-   Kullanmak istediğiniz gri tonlamalı görüntüyü `input_image.png` adıyla aynı dizine koyun.
+   Kullanmak istediğiniz görüntüyü `input_image.png` adıyla `floyd_steinberg.py` dosyasıyla `folder`da kayd edin.
 
 2. **Algoritmayı Çalıştırın**  
    Aşağıdaki komutu kullanarak algoritmayı çalıştırın:
@@ -44,7 +44,6 @@ Bu repozito, gri tonlamalı bir görüntüyü iki tonlu bir görüntüye dönü�
    İşlenen görüntü `output_image.png` adıyla kaydedilecektir. Sonuç görüntüsünü kontrol edin.
 
    ![Çıktı Görüntüsü](combine.jpg)  
-   *(Çıktı görüntüsü ile ilgili bir örnek resim ekleyin.)*
 
 ## Algoritma Hakkında
 
@@ -56,13 +55,8 @@ Aşağıda, algoritmanın bazı örnek görüntüler üzerinde nasıl çalışt�
 
 - **Giriş Görüntüsü**  
   ![Giriş Görüntüsü](911.webp)  
-  *(Giriş görüntüsü ile ilgili bir örnek resim ekleyin.)*
+  
 
 - **İşlenmiş Görüntü**  
   ![İşlenmiş Görüntü](output.png)  
-  *(İşlenmiş görüntü ile ilgili bir örnek resim ekleyin.)*
-
-## İletişim
-
-Herhangi bir sorun veya öneri için [your_email@example.com](mailto:your_email@example.com) adresinden bana ulaşabilirsiniz.
-
+  
