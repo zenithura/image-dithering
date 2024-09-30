@@ -1,7 +1,7 @@
 
 # Floyd-Steinberg Dithering Algorithm
 
-Bu repozito, gri tonlamalı bir görüntüyü iki tonlu bir görüntüye dönüştürmek için Floyd-Steinberg dithering algoritmasını uygular. Dithering, görüntülerin sınırlı renk paletleriyle daha iyi görünmesini sağlamak için kullanılır.
+Bu repo, gri tonlamalı bir görüntüyü iki tonlu bir görüntüye dönüştürmek için Floyd-Steinberg dithering algoritmasını uygular. Dithering, görüntülerin sınırlı renk paletleriyle daha iyi görünmesini sağlamak için kullanılır.
 
 ## Gereksinimler
 
