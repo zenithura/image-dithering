@@ -7,7 +7,7 @@ def normalize(x):
     else:
         return 0
 
-image = Image.open('911.webp')
+image = Image.open('input_image.png')
 image = image.convert("L")
 width, height = image.size
 pixels = image.load()
@@ -24,4 +24,4 @@ for y in range(0,height-1):
         pixels[x    ,y + 1] = int(pixels[x    ,y + 1] + quant_error * 5 / 16)
         pixels[x + 1,y + 1] = int(pixels[x + 1,y + 1] + quant_error * 1 / 16)
         
-image.save('new_image.png')
+image.save('output_image.png')
