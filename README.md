@@ -24,7 +24,7 @@ Bu repozito, gri tonlamalı bir görüntüyü iki tonlu bir görüntüye dönü�
    Repoyu yerel bilgisayarınıza klonlayın:
 
    ```bash
-   [git clone https://github.com/zenithura/image-dithering.git](https://github.com/zenithura/image-dithering.git)
+   git clone https://github.com/zenithura/image-dithering.git
    cd image-dithering
    ```
 
