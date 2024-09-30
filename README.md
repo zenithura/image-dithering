@@ -43,7 +43,7 @@ Bu repozito, gri tonlamalı bir görüntüyü iki tonlu bir görüntüye dönü�
 3. **Sonuç**  
    İşlenen görüntü `output_image.png` adıyla kaydedilecektir. Sonuç görüntüsünü kontrol edin.
 
-   ![Çıktı Görüntüsü](path/to/your/output_image.jpg)  
+   ![Çıktı Görüntüsü](combine.jpg)  
    *(Çıktı görüntüsü ile ilgili bir örnek resim ekleyin.)*
 
 ## Algoritma Hakkında
@@ -55,11 +55,11 @@ Floyd-Steinberg dithering algoritması, her pikselin hata değerini komşu pikse
 Aşağıda, algoritmanın bazı örnek görüntüler üzerinde nasıl çalıştığını gösteren birkaç örnek bulunmaktadır:
 
 - **Giriş Görüntüsü**  
-  ![Giriş Görüntüsü](path/to/your/input_image.jpg)  
+  ![Giriş Görüntüsü](911.webp)  
   *(Giriş görüntüsü ile ilgili bir örnek resim ekleyin.)*
 
 - **İşlenmiş Görüntü**  
-  ![İşlenmiş Görüntü](path/to/your/output_image.jpg)  
+  ![İşlenmiş Görüntü](output.png)  
   *(İşlenmiş görüntü ile ilgili bir örnek resim ekleyin.)*
 
 ## İletişim
