@@ -31,7 +31,7 @@ Bu repozito, gri tonlamalı bir görüntüyü iki tonlu bir görüntüye dönü�
 ## Kullanım Talimatları
 
 1. **Görüntüyü Hazırlayın**  
-   Kullanmak istediğiniz görüntüyü `input_image.png` adıyla `floyd_steinberg.py` dosyasıyla `folder`da kayd edin.
+   Kullanmak istediğiniz görüntüyü `input_image.png` adıyla `floyd_steinberg.py` dosyasıyla aynı dizinde kayd edin.
 
 2. **Algoritmayı Çalıştırın**  
    Aşağıdaki komutu kullanarak algoritmayı çalıştırın:
